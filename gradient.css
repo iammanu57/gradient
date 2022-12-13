@@ -104,6 +104,7 @@ header.sticky .logo{
     font-weight: 300;
     border: none;
     box-shadow: 0 5px 35px rgba(0, 0,0, 0.1);
+    cursor: pointer;
 
 }
 .btn2{
@@ -116,6 +117,7 @@ header.sticky .logo{
     font-weight: 300;
     border: none;
     box-shadow: 0 5px 35px rgba(0, 0,0, 0.1);
+    cursor: pointer;
 
 }
 .header .navbar li a{
